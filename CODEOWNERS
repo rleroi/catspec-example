@@ -1,0 +1,3 @@
+# Transpiler-owned paths. Review by the bot identity so human edits to src/ stand out.
+/src/   @cat-transpile-bot
+/purr   @cat-transpile-bot
