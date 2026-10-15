@@ -1,6 +1,7 @@
 name: CaT
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - "bacon/**"
